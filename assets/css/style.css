@@ -1226,7 +1226,7 @@ input[type=submit]:hover {
   .pb200 {
     padding-bottom: 60px;
   }
-  .logo{
+  .logo-header{
     display: none;
   }
 }
